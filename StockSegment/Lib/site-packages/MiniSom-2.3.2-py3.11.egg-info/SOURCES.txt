@@ -1,0 +1,8 @@
+LICENSE
+minisom.py
+setup.cfg
+setup.py
+MiniSom.egg-info/PKG-INFO
+MiniSom.egg-info/SOURCES.txt
+MiniSom.egg-info/dependency_links.txt
+MiniSom.egg-info/top_level.txt

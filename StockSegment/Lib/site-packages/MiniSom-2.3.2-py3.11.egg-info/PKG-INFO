@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: MiniSom
+Version: 2.3.2
+Summary: Minimalistic implementation of the Self Organizing Maps (SOM)
+Home-page: https://github.com/JustGlowing/minisom
+Download-URL: https://github.com/JustGlowing/minisom/archive/master.zip
+Author: Giuseppe Vettigli
+License: MIT
+Keywords: machine learning,neural networks,clustering,dimentionality reduction
+Requires: numpy
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+See the github page https://github.com/JustGlowing/minisom

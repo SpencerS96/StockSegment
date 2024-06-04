@@ -1,0 +1,23 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 469 entries, 0 to 468
+Data columns (total 16 columns):
+ #   Column                  Non-Null Count  Dtype  
+---  ------                  --------------  -----  
+ 0   Ticker                  469 non-null    object 
+ 1   Daily Return_mean       469 non-null    float64
+ 2   Daily Return_std        469 non-null    float64
+ 3   Cumulative Return_mean  469 non-null    float64
+ 4   30 Day MA_mean          469 non-null    float64
+ 5   30 Day STD_mean         469 non-null    float64
+ 6   30 Day EMA_mean         469 non-null    float64
+ 7   RSI_mean                469 non-null    float64
+ 8   Bollinger High_mean     469 non-null    float64
+ 9   Bollinger Low_mean      469 non-null    float64
+ 10  Volume_mean             469 non-null    float64
+ 11  Principal Component 1   469 non-null    float64
+ 12  Principal Component 2   469 non-null    float64
+ 13  Symbol                  469 non-null    object 
+ 14  GICS Sector             469 non-null    object 
+ 15  GICS Sub-Industry       469 non-null    object 
+dtypes: float64(12), object(4)
+memory usage: 58.8+ KB
